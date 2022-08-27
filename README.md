@@ -29,5 +29,17 @@ Libraries
 
 2 Matirial ui
 
+# Environment Variables
+
+
+PORT=
+MONGO_URL=
+MONGO_URI=
+JWT_SECRET=
+NODE_ENV=
+
+##Start
+# npm start
+
 
 
